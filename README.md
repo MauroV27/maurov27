@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Sou Mauro Victor</h1>
 <h3 align="center">Apaixonado por tecnologia e desenvolvimento de sistemas</h3>
 
-- 🌱 Atualmente estou estudando **Android(Kotlin) e Spring(Kotlin)**
+- 🌱 Atualmente estou estudando **Android(Kotlin) e Machine Learning**
 
 - 💬 Me pergunte sobre **desenvolvimento de jogos, algoritmos e tecnologia**
 
